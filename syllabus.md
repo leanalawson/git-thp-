@@ -46,4 +46,29 @@ Séance 4
      - Manipuler l'écran noir du terminal
      - Mettre son code en ligne et travailler à plusieurs sur un projet avec GitHub
      - Mettre en ligne son site internet 
-     - Découvrir le monde merveilleux
+     - Découvrir le monde merveilleux du jargon de l'informatique 
+     
+De plus, avec la pédagogie de l'éducation de pairs, les étudiants seront capables de : 
+     - S'expliquer mutuellement des concepts compliqués 
+     - Travailler en équipe sur les projets d'entreprise 
+     - Rechercher la bonne information
+     - Assimiler rapidement des bases théoriques pour les appliquer dans des projets 
+     
+Exemple de projet 
+Réaliser à plusieurs un site internet au format landing page pour présenter une idée de startup et le mettre en ligne.
+
+Bibliographie succincte
+Chacon, Scott : Straub, Ben, Pro Git, Apress, 2014, 456 pages
+
+Hartl, Michael, Learn Enough Command Line to Be Dangerous : A tutorial introduction to . the Unix command line. Softcover 2016. 85 pages.
+
+Nebra, Mathieu. Réalisez votre site web avec HTML 5 et CSS 3. OpenClassrooms. 2017. 306 pages. 
+
+Langue d'enseignement 
+Le cours est conçu pour des élèves français : mais le monde de l'informatique étant majoritairement anglo-saxon, il y aura un peu d'anglais dans les ressources.
+
+Matériel 
+Pour le cours, vous aurez besoin d'un ordinateur. 
+
+ 
+ 
