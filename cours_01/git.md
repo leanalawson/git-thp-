@@ -25,4 +25,3 @@ Tout comme il existe plusieurs explorateurs Internet (Firefox, Chrome, Safari, e
 Git a été créé en 2005 par Linus Torvald, qui a (entre autres) créé le système d'exploitation Linux.
 
 
-
