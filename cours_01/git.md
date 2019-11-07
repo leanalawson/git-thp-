@@ -29,9 +29,7 @@ Git a été créé en 2005 par Linus Torvald, qui a (entre autres) créé le sys
 En gros, voici ce que font Git et GitHub :
 
 - **Git** est un logiciel de gestion de versions. C'est à dire, un logiciel permettant de photographier à l'instant T les fichiers d'un dossier.
-- **GitHub** est un service en ligne qui utilise Git, et qui permet entre autres de : 
-
-       Mettre en ligne ses dossiers Git (dans ce qu'on appelle "un repository").
-       Collaborer à plusieurs sur un même dossier Git.
+- **GitHub** est un service en ligne qui utilise Git, et qui permet entre autres de : °Mettre en ligne ses dossiers Git (dans ce qu'on appelle "un repository").
+°Collaborer à plusieurs sur un même dossier Git.
 
 
