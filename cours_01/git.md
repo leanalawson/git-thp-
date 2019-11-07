@@ -1,4 +1,4 @@
-## 1. Introduction
+### 1. Introduction
 
 As-tu déjà travaillé en entreprise ou sur un projet étudiant ? Si oui, tu t'es peut-être déjà retrouvé dans mon cas avec un dossier qui ressemble à ça : 
 
@@ -19,7 +19,7 @@ Avec un tel logiciel, fini le stress et les dossiers remplis de fichiers inutile
 
 Comprends-tu maintenant pourquoi le gestionnaire de version appelé [Git](https://git-scm.com/) est un super logiciel, et pourquoi c'est un indispensable dans l'univers du code ? Dans cette ressource, nous verrons comment l'installer et s'en servir. Ensuite, nous verrons de quelle manière l'utiliser pour mettre ses dossiers en ligne avec GitHub (un équivalent de DropBox) pour te permettre de partager ton code et collaborer facilement avec d'autres devs.
 
-## 2. Contexte et historique 
+### 2. Contexte et historique 
 
 Tout comme il existe plusieurs explorateurs Internet (Firefox, Chrome, Safari, etc), il existe plein de logiciels de gestion de versions ([SVN](https://subversion.apache.org/), [BitKeeper](https://www.bitkeeper.org/), etc). Nous allons travailler avec Git pour ce cours car c'est de très très loin le plus connu et utilisé.
 Git a été créé en 2005 par Linus Torvald, qui a (entre autres) créé le système d'exploitation Linux.
@@ -32,9 +32,9 @@ En gros, voici ce que font Git et GitHub :
 - **GitHub** est un service en ligne qui utilise Git, et qui permet entre autres de :      °Mettre en ligne ses dossiers Git (dans ce qu'on appelle "un repository").
    °Collaborer à plusieurs sur un même dossier Git.
 
-## 3. Le cours 
+### 3. Le cours 
 
-## 3.1 Git 
+### 3.1 Git 
 
 Nous allons maintenant voir :
 
@@ -43,10 +43,12 @@ Nous allons maintenant voir :
    -Comment faire une photographie (appelé "commit").
    -Comment revenir à des versions précédentes.
    
-## 3.1.1. Installation 
+### 3.1.1. Installation 
 
 Pour installer Git, rien de plus simple : va sur le site du même nom dans la rubrique [téléchargements](https://git-scm.com/downloads), choisis ton OS, puis télécharge et installe le logiciel. Redémarre ton terminal, et voilà !
 
-## 🚀  ALERTE BONNE ASTUCE 
+### 🚀  ALERTE BONNE ASTUCE 
+
+Git est un logiciel ## CLI (Command Line Interface). Avec ce type de logiciels, tout passe par le terminal. Il s'oppose à 
 
 
