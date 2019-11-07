@@ -29,7 +29,24 @@ Git a été créé en 2005 par Linus Torvald, qui a (entre autres) créé le sys
 En gros, voici ce que font Git et GitHub :
 
 - **Git** est un logiciel de gestion de versions. C'est à dire, un logiciel permettant de photographier à l'instant T les fichiers d'un dossier.
-- **GitHub** est un service en ligne qui utilise Git, et qui permet entre autres de : °Mettre en ligne ses dossiers Git (dans ce qu'on appelle "un repository").
-°Collaborer à plusieurs sur un même dossier Git.
+- **GitHub** est un service en ligne qui utilise Git, et qui permet entre autres de :      °Mettre en ligne ses dossiers Git (dans ce qu'on appelle "un repository").
+   °Collaborer à plusieurs sur un même dossier Git.
+
+## 3. Le cours 
+
+## 3.1 Git 
+
+Nous allons maintenant voir :
+
+   -Comment installer Git sur ton ordinateur.
+   -Comment créer un dossier Git (repository).
+   -Comment faire une photographie (appelé "commit").
+   -Comment revenir à des versions précédentes.
+   
+## 3.1.1. Installation 
+
+Pour installer Git, rien de plus simple : va sur le site du même nom dans la rubrique [téléchargements](https://git-scm.com/downloads), choisis ton OS, puis télécharge et installe le logiciel. Redémarre ton terminal, et voilà !
+
+## 🚀  ALERTE BONNE ASTUCE 
 
 
