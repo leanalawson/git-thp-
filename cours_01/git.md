@@ -2,9 +2,9 @@
 
 As-tu déjà travaillé en entreprise ou sur un projet étudiant ? Si oui, tu t'es peut-être déjà retrouvé dans mon cas avec un dossier qui ressemble à ça : 
 
-.
-└── big_project
+    .
 
+    └── big_project
     ├── big_project_01.xls
     ├── big_project_03.xls
     ├── big_project_final_féfé.xls
@@ -70,6 +70,7 @@ Le but de cette semaine est de te donner les bases pour comprendre l'univers du 
 
 Lance (ou relance) ton terminal, puis rentre la ligne suivante :
 
+    $ git --version
 
 Le terminal devrait te renvoyer quelque chose comme : git version X.XX.X. S'il te renvoie un truc du genre command not found: git, c'est que tu n'as pas installé Git ou relancé ton terminal !
 
@@ -78,6 +79,9 @@ Pour se servir de Git, c'est simple : il suffit de rentrer dans le terminal les 
 ### 3.1.2. Mise en place de ton dossier : git init et git status 
 
 Avant de commencer, il faut dire au logiciel Git : "ceci est un dossier de travail correspondant à un projet. Initialise Git dans ce dossier stp". En gros, tu vas initialiser un repository Git, ce qui te permettra de faire des photographies à l'instant T. Pour ceci, mets-toi dans un dossier de travail (avec la commande cd) et exécute la commande suivante :
+
+    $ git init
+    Initialized empty Git repository in /home/felix/Desktop/my_big_project/.git/
 
 ### ⚠️ ALERTE ERREUR COMMUNE 
 
@@ -95,6 +99,21 @@ Voici où **tu ne dois pas** faire git init :
 - Un dossier qui contiendrait plusieurs dossiers de projets différents.
 
 En général la _rule of thumbs_ est : un git init par projet. Si jamais tu as fait git init dans un dossier qui n'est pas bon, tu peux supprimer le dossier caché contenant toutes les informations de git en faisant :
+
+    $ rm -rf .git
+    
+Et maintenant, quelle est la commande la plus importante quand on manipule git ? Réponse : git status. Cette commande permet de te donner en un rien de temps l'état de ton projet git. Tu peux tester en entrant git status dans un repository git :
+
+    $ git status
+    On branch master
+
+    No commits yet
+
+    nothing to commit (create/copy files and use "git add" to track)
+    
+Le logiciel git te dit actuellement qu'il n'y a rien dans ton dossier, et donc rien à photographier ("nothing to commit"). Voyons maintenant comment faire un commit, justement.
+
+
 
 
 
