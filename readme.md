@@ -1,4 +1,4 @@
-** READ ME**
+ READ ME
 
 
 Le projet que nous avons lancer est une introduction au Terminal, à Github, et à Git.
