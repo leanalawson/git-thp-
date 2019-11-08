@@ -422,10 +422,23 @@ Et hop ! Tu reviens à ton dernier commit. Très pratique pour tester des concep
 
 ### 3.2. GitHub
 
+Maintenant que tu es un champion du commit, nous allons voir comment mettre son code en ligne pour en faire profiter la terre entière, et pouvoir collaborer à plusieurs sur un projet.
 
+Grâce à git et GitHub, tu peux "push" ton code en ligne en quelques lignes de commandes à peine. Dans cette partie, nous verrons :
 
+- Qu'est-ce que GitHub, et comment créer un repository.
+- La notion de remote pour Git : comment lier ton repository local à un repository en ligne.
+- les deux commandes maitresses : git pull et git push.
 
+### 3.2.1. C'est quoi GitHub
 
+[GitHub](https://github.com/) est une plateforme permettant deux choses très importantes dans l'univers du code :
 
+- Pouvoir lier un repository Git local (sur ton ordinateur) à un repository que tu as créé en ligne sur la plateforme Github (un peu comme avec DropBox). Nous allons voir dans cette ressource comment le faire.
+- Pouvoir travailler en équipe sur un même repository. Nous verrons ça plus tard.
 
+Un grand nombre d'entreprises utilisent GitHub pour travailler, ainsi qu'une grosse majorité des projets OpenSource. Le code de [ReactJS](https://github.com/facebook/react), [Bootstrap](https://github.com/twbs/bootstrap), ou encore [Ruby on rails](https://github.com/rails/rails) ont leur code sur GitHub et tout le monde peut y contribuer !
 
+Va sur GitHub et créé un compte. Ensuite, va [créer un repository](https://github.com/new), ce qui devrait te renvoyer à l'écran suivant :
+
+https://i.imgur.com/WSlwKCG.png
