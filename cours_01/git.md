@@ -2,7 +2,15 @@
 
 As-tu déjà travaillé en entreprise ou sur un projet étudiant ? Si oui, tu t'es peut-être déjà retrouvé dans mon cas avec un dossier qui ressemble à ça : 
 
+.
+└── big_project
 
+    ├── big_project_01.xls
+    ├── big_project_03.xls
+    ├── big_project_final_féfé.xls
+    ├── big_project_final.xls
+    ├── big_project.xls
+    └── [WIP] big_project_fin.xls
 
 
 
@@ -72,6 +80,21 @@ Pour se servir de Git, c'est simple : il suffit de rentrer dans le terminal les 
 Avant de commencer, il faut dire au logiciel Git : "ceci est un dossier de travail correspondant à un projet. Initialise Git dans ce dossier stp". En gros, tu vas initialiser un repository Git, ce qui te permettra de faire des photographies à l'instant T. Pour ceci, mets-toi dans un dossier de travail (avec la commande cd) et exécute la commande suivante :
 
 ### ⚠️ ALERTE ERREUR COMMUNE 
+
+Quand on débute dans le code, on a tendance à faire git init à la volée un peu partout. Il ne faut pas. Voici les types de dossiers dans lesquels tu dois initialiser des repository :
+
+- Un dossier contenant le code de ton projet Google.
+- Un dossier contenant le projet d'un site internet.
+- Un dossier contenant un projet clair et défini.
+
+Voici où **tu ne dois pas** faire git init : 
+
+- Le dossier qui contient tout ton ordinateur (exemple : exécuter git init en première ligne de commande de ton terminal).
+- Ton dossier Desktop ou My Documents.
+- Un dossier the_hacking_project contenant tous tes projets de THP.
+- Un dossier qui contiendrait plusieurs dossiers de projets différents.
+
+En général la _rule of thumbs_ est : un git init par projet. Si jamais tu as fait git init dans un dossier qui n'est pas bon, tu peux supprimer le dossier caché contenant toutes les informations de git en faisant :
 
 
 
